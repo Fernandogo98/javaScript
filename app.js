@@ -11,6 +11,6 @@ idade = prompt("Qual é a Sua Idade?")
 console.log(nome, idade);
 if (idade >= 18){
     alert("Vocé já pode tirar Habilitação!!");
-}else (idade <= 18){
-    alert("Você é menor de idade ")
+}else{
+    alert("Você é menor de idade!!")
 }
