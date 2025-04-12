@@ -41,19 +41,19 @@ if (numero > 0) {
 */
 
 /*Desafio 3 - Alura
-let nome = prompt("Digite Seu Nome")
-alert(`Bem-Vindo ao teste: ${nome}`)
+let nome = prompt("Digite Seu Nome");
+alert(`Bem-Vindo ao teste: ${nome}`);
 let saldo = 1000;
-alert(`Você Pode Ganhar: ${saldo} em dinheiro`)
+alert(`Você Pode Ganhar: ${saldo} em dinheiro`);
 numero = prompt("Escolha um numero de 1 a 30");
 numeroSorte = 27
 let saldoAcumulado = 0;
 
 if (numero == numeroSorte){
-    alert(`Você Acertou o Numero da Sorte ${numeroSorte}`)
+    alert(`Você Acertou o Numero da Sorte ${numeroSorte}`);
     saldoAcumulado = saldoAcumulado + 1000;
-    alert(`Seu Saldo Atual é de: ${saldoAcumulado} Parabens Por Ganhar`)
+    alert(`Seu Saldo Atual é de: ${saldoAcumulado} Parabens Por Ganhar`);
 }else{
-    alert(`Você Errou o Numero da Sorte digitou: ${numero}`)
+    alert(`Você Errou o Numero da Sorte digitou: ${numero}`);
 }
 */
