@@ -91,3 +91,16 @@ while (numero >= contador) {
     console.log(`O Numero é: ${contador}`);
     contador++
 }*/
+
+/*
+Condição AND &&
+idade = prompt("Digite Sua Idade para Acessar o Site");
+acesso = true;
+
+if (idade >= 18 && acesso) {
+    alert("Bem-Vindo Ao Site");
+} else {
+    alert(`Você é menor de idade, não pode acessar ainda: ${idade}`);
+}
+    */
+   
